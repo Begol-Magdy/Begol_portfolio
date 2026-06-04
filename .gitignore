@@ -1,0 +1,7 @@
+node_modules/
+dist/
+release/
+.edge-profile*/
+.chrome-profile*/
+qa-*.png
+*.tsbuildinfo
